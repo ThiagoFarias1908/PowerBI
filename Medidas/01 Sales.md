@@ -4,4 +4,4 @@
 
 **Fórmula DAX:**
 ```DAX
-Sales = SUM('2022 Sales'[Revenue]).
+Sales = SUM('2022 Sales'[Revenue])
