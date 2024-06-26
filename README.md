@@ -6,8 +6,7 @@ Repositório para armazenar estudos e projetos em Power BI.
 ## Estrutura
 - **Medidas:** Documentação das medidas DAX.
 - **Datasets:** Conjunto de dados utilizados nos projetos.
-- **Relatórios:** Arquivos de relatórios do Power BI.
-- **Scripts:** Scripts utilizados para transformação de dados.
+- **Projetos:** Projetos ou estudos de caso que envolvem a aplicação prática de Power BI em cenários mais realistas.
 
 ## Medidas
 1. [Sales](Medidas/01%20Sales.md): Calcula o total das vendas.
