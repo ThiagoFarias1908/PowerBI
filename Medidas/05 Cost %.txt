@@ -1,5 +1,0 @@
-Cost % = 
-DIVIDE(
-    [Cost];
-    [Sales]
-)
