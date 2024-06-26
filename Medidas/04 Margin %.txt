@@ -1,5 +1,0 @@
-Margin % = 
-DIVIDE(
-    [Margin];
-    [Sales]
-)
