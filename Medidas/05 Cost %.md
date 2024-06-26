@@ -1,4 +1,4 @@
-# Medida: Margin
+# Medida: Cost %
 
 **Descrição:** Calcula a porcentagem de custo em relação ao total de vendas.
 
