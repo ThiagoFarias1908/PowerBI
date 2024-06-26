@@ -1,1 +1,0 @@
-Cost = SUM('2022 Sales'[Total Cost])
