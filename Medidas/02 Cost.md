@@ -4,4 +4,4 @@
 
 **Fórmula DAX:**
 ```DAX
-Cost = SUM('2022 Sales'[Total Cost]).
+Cost = SUM('2022 Sales'[Total Cost])
