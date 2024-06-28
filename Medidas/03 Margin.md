@@ -4,4 +4,4 @@
 
 **Fórmula DAX:**
 ```DAX
-Margin = '#Medidas'[Sales] - [Cost].
+Margin = '#Medidas'[Sales] - [Cost]
