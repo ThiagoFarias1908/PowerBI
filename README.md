@@ -20,9 +20,11 @@ Repositório para armazenar estudos e projetos em Power BI.
 9. [CALCULATE + ALL](Medidas/09%20CALCULATE%20%2B%20ALL.md): Calcula a receita líquida total das categorias.
 10. [Porcetagem Categoria](Medidas/10%20Porcetagem%20Categoria.md): Calcula a porcentagem de vendas por categoria.
 11. [Porcetagem Ano](Medidas/11%20Porcentagem%20Ano.md): Calcula a porcentagem de vendas em relação ao ano.
-12. 
-13. [Cost](Medidas/02%20Cost.md): Calcula o custo total.
-14. [Margin](Medidas/03%20Margin.md): Calcula a margem de lucro para vendas.
-15. [Margin %](Medidas/04%20Margin%20%25.md): Calcula a margem percentual de lucro.
-16. [Cost %](Medidas/05%20Cost%20%25.md): Calcula a porcentagem de custo em relação ao total de vendas.
-17. [Volume Ton](Medidas/06%20Volume%20Ton.md): Calcula o volume total em toneladas.
+12. [Sales Total Category](Medidas/12%20Sales%20Total%20Category.md): Calcula o total de vendas por categoria de produto.
+13. [Sales Category %](Medidas/13%20Sales%20Category%20%25.md): Calcula a porcentagem de vendas por categoria em relação ao total de vendas.
+14. 
+15. [Cost](Medidas/02%20Cost.md): Calcula o custo total.
+16. [Margin](Medidas/03%20Margin.md): Calcula a margem de lucro para vendas.
+17. [Margin %](Medidas/04%20Margin%20%25.md): Calcula a margem percentual de lucro.
+18. [Cost %](Medidas/05%20Cost%20%25.md): Calcula a porcentagem de custo em relação ao total de vendas.
+19. [Volume Ton](Medidas/06%20Volume%20Ton.md): Calcula o volume total em toneladas.
