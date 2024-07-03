@@ -4,4 +4,11 @@
 
 **Fórmula DAX:**
 ```DAX
-Sales AVGX = AVERAGEX(fat_sales; IF(fat_sales[Revenue] > 0 ; fat_sales[Revenue]))
+Sales AVGX = 
+AVERAGEX(
+    fat_sales;
+    IF(
+        fat_sales[Revenue] > 0 ;
+        fat_sales[Revenue]
+    )
+)
