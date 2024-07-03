@@ -4,6 +4,7 @@
 
 **Fórmula DAX:**
 ```DAX
+Sales Category % = 
 DIVIDE(
     [01 Sales];
     [12 Sales Total Category]
