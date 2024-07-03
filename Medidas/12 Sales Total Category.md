@@ -4,6 +4,7 @@
 
 **Fórmula DAX:**
 ```DAX
+Sales Total Category = 
 CALCULATE(
     [01 Sales];
     ALL(dim_material[CAT_ID])
