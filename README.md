@@ -22,9 +22,13 @@ Repositório para armazenar estudos e projetos em Power BI.
 11. [Porcetagem Ano](Medidas/11%20Porcentagem%20Ano.md): Calcula a porcentagem de vendas em relação ao ano.
 12. [Sales Total Category](Medidas/12%20Sales%20Total%20Category.md): Calcula o total de vendas por categoria de produto.
 13. [Sales Category %](Medidas/13%20Sales%20Category%20%25.md): Calcula a porcentagem de vendas por categoria em relação ao total de vendas.
-14. 
-15. [Cost](Medidas/02%20Cost.md): Calcula o custo total.
-16. [Margin](Medidas/03%20Margin.md): Calcula a margem de lucro para vendas.
-17. [Margin %](Medidas/04%20Margin%20%25.md): Calcula a margem percentual de lucro.
-18. [Cost %](Medidas/05%20Cost%20%25.md): Calcula a porcentagem de custo em relação ao total de vendas.
-19. [Volume Ton](Medidas/06%20Volume%20Ton.md): Calcula o volume total em toneladas.
+14. [Sales Total Category ALLSELECTED](Medidas/14%20Sales%20Total%20Category%20ALLSELECTED.md): Calcula o total de vendas por categoria, considerando a seleção feita no relatório (ALLSELECTED).
+15. [Sales Category ALLSELECTED %](Medidas/15%20Sales%20Category%20ALLSELECTED%20%25.md): Calcula a porcentagem das vendas por categoria, considerando o contexto de seleção atual utilizando a função ALLSELECTED.
+16. [Sales Total Material ALL](Medidas/16%20Sales%20Total%20Material%20ALL.md): Calcula o total de vendas de materiais, ignorando qualquer filtro aplicado.
+17. [Sales Total Material ALL %](Medidas/17%20Sales%20Total%20Material%20ALL%20%25.md): Calcula o percentual das vendas totais de materiais em relação ao total geral das vendas, independentemente de quaisquer filtros aplicados.
+18. 
+19. [Cost](Medidas/02%20Cost.md): Calcula o custo total.
+20. [Margin](Medidas/03%20Margin.md): Calcula a margem de lucro para vendas.
+21. [Margin %](Medidas/04%20Margin%20%25.md): Calcula a margem percentual de lucro.
+22. [Cost %](Medidas/05%20Cost%20%25.md): Calcula a porcentagem de custo em relação ao total de vendas.
+23. [Volume Ton](Medidas/06%20Volume%20Ton.md): Calcula o volume total em toneladas.
