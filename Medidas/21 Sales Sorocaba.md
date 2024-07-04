@@ -8,7 +8,7 @@ Sales Sorocaba =
 CALCULATE(
     [01 Sales];
     FILTER(
-        dim_plant;
+        VALUES(dim_plant[Plant Name]);
         dim_plant[Plant Name] = "Sorocaba"
     )
 )
