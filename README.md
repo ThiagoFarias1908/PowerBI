@@ -26,9 +26,7 @@ Repositório para armazenar estudos e projetos em Power BI.
 15. [Sales Category ALLSELECTED %](Medidas/15%20Sales%20Category%20ALLSELECTED%20%25.md): Calcula a porcentagem das vendas por categoria, considerando o contexto de seleção atual utilizando a função ALLSELECTED.
 16. [Sales Total Material ALL](Medidas/16%20Sales%20Total%20Material%20ALL.md): Calcula o total de vendas de materiais, ignorando qualquer filtro aplicado.
 17. [Sales Total Material ALL %](Medidas/17%20Sales%20Total%20Material%20ALL%20%25.md): Calcula o percentual das vendas totais de materiais em relação ao total geral das vendas, independentemente de quaisquer filtros aplicados.
-18. 
-19. [Cost](Medidas/02%20Cost.md): Calcula o custo total.
-20. [Margin](Medidas/03%20Margin.md): Calcula a margem de lucro para vendas.
-21. [Margin %](Medidas/04%20Margin%20%25.md): Calcula a margem percentual de lucro.
-22. [Cost %](Medidas/05%20Cost%20%25.md): Calcula a porcentagem de custo em relação ao total de vendas.
-23. [Volume Ton](Medidas/06%20Volume%20Ton.md): Calcula o volume total em toneladas.
+18. [Sales Total CA06](Medidas/18%20Sales%20Total%20CA06.md): Calcula o total das vendas para a categoria CA06.
+19. [Sales Category Diff.](Medidas/19%20Sales%20Category%20Diff.md): Calcula a diferença entre as vendas de duas categorias específicas.
+20. [Sales Total CA06 V2](Medidas/20%20Sales%20Total%20CA06%20V2.md): Calcula o total das vendas para a categoria CA06 de outra maneira.
+21. [Sales Sorocaba](Medidas/21%20Sales%20Sorocaba.md): Calcula o total das vendas realizadas na cidade de Sorocaba.
