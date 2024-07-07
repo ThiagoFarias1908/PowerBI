@@ -8,8 +8,7 @@ ADDCOLUMNS =
 AVERAGEX(
     ADDCOLUMNS(
         VALUES(dim_calendario[Mes abrev]);
-        "Sales";
-        [01 Sales]
+        "Sales"; [01 Sales]
     );
     [Sales]
 )
