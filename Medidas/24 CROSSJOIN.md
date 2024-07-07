@@ -1,6 +1,6 @@
 # Medida: CROSSJOIN
 
-**Descrição:** Calcula o média de lucro das vendas por mês e ano.
+**Descrição:** Calcula a média de lucro das vendas por mês e ano.
 
 **Fórmula DAX:**
 ```DAX
