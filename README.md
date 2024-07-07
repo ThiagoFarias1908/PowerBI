@@ -30,3 +30,17 @@ Repositório para armazenar estudos e projetos em Power BI.
 19. [Sales Category Diff.](Medidas/19%20Sales%20Category%20Diff.md): Calcula a diferença entre as vendas de duas categorias específicas.
 20. [Sales Total CA06 V2](Medidas/20%20Sales%20Total%20CA06%20V2.md): Calcula o total das vendas para a categoria CA06 de outra maneira.
 21. [Sales Sorocaba](Medidas/21%20Sales%20Sorocaba.md): Calcula o total das vendas realizadas na cidade de Sorocaba.
+22. [Performance AVGX](Medidas/22%20Performance%20AVGX.md): Calcula a performance média das entregas com base na data de entrega.
+23. [ADDCOLUMNS](Medidas/23%20ADDCOLUMNS.md): Adiciona uma coluna calculada, que calcula a média de lucro para cada mês.
+24. [CROSSJOIN](Medidas/24%20CROSSJOIN.md): Calcula a média de lucro das vendas por mês e ano.
+25. [SUMMARIZE](Medidas/25%20SUMMARIZE.md): Cria uma tabela resumida que calcula o média de lucro das vendas por mês e ano.
+26. [ADDCOLUMNS + SUMMARIZE](Medidas/26%20ADDCOLUMNS%20%2B%20SUMMARIZE.md): Calcula a média de vendas por mês e ano.
+27. [Variáveis com um valor](Medidas/27%20Variáveis%20com%20um%20valor.md): Cria duas variáveis que retornam a soma do ano e do mês máximos.
+28. [Variáveis com tabela](Medidas/28%20Variáveis%20com%20tabela.md): Cria uma variável que encontra o ano máximo entre os anos únicos da tabela.
+29. [Variáveis com tabela V2](Medidas/29%20Variáveis%20com%20tabela%20V2.md): Cria uma variável que calcula a média das vendas para os anos e meses abreviados na tabela.
+30. [SELECTEDVALUE YEAR](Medidas/30%20SELECTEDVALUE%20YEAR.md): Cria uma variável que calcula o ano máximo presente na coluna e retorna o valor do ano selecionado.
+31. [USERELATIONSHIP Orders delivered quantity](Medidas/31%20USERELATIONSHIP%20Orders%20delivered%20quantity.md): Calcula a quantidade de pedidos entregues usando o relacionamento especificado entre as tabelas.
+
+
+
+
