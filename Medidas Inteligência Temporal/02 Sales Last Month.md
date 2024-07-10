@@ -5,11 +5,17 @@
 **Fórmula DAX:**
 ```DAX
 Sales Last Month = 
-CALCULATE(
-    [Sales];
-    DATEADD(
-        dim_calendario[Date];
-        -1;
-        MONTH
+VAR LM = 
+    CALCULATE(
+        [Sales];
+        DATEADD(
+            dim_calendario[Date];
+            -1;
+            MONTH
+        )
     )
+RETURN
+IF(
+    [Sales];
+    LM
 )
