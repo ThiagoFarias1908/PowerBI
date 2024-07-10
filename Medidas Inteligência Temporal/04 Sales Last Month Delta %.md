@@ -4,4 +4,8 @@
 
 **Fórmula DAX:**
 ```DAX
-Sales Last Month Delta = [Sales] - [Sales Last Month] 
+Sales Last Month Delta % = 
+DIVIDE(
+    [Sales Last Month Delta];
+    [Sales Last Month]
+)
