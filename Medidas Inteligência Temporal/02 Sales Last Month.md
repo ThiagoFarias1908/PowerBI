@@ -6,14 +6,14 @@
 ```DAX
 Sales Last Month = 
 VAR LM = 
-    CALCULATE(
-        [Sales];
-        DATEADD(
-            dim_calendario[Date];
-            -1;
-            MONTH
-        )
+CALCULATE(
+    [Sales];
+    DATEADD(
+        dim_calendario[Date];
+        -1;
+        MONTH
     )
+)
 RETURN
 IF(
     [Sales];
