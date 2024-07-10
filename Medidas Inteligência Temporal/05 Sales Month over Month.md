@@ -6,10 +6,10 @@
 ```DAX
 Sales Month over Month = 
 VAR MoM =
-    CALCULATE(
-        [Sales];
-        SAMEPERIODLASTYEAR(dim_calendario[Date])
-    )
+CALCULATE(
+    [Sales];
+    SAMEPERIODLASTYEAR(dim_calendario[Date])
+)
 RETURN
 IF(
     [Sales];
