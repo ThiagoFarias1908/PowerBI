@@ -1,10 +1,10 @@
-# Medida: Sales Year over Year
+# Medida: Sales Last Year
 
 **Descrição:** Calcula o total de vendas do ano anterior.
 
 **Fórmula DAX:**
 ```DAX
-Sales Year over Year = 
+Sales Last Year = 
 VAR YoY =
 CALCULATE(
     [Sales];
