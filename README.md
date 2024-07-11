@@ -41,6 +41,21 @@ Repositório para armazenar estudos e projetos em Power BI.
 30. [SELECTEDVALUE YEAR](Medidas/30%20SELECTEDVALUE%20YEAR.md): Cria uma variável que calcula o ano máximo presente na coluna e retorna o valor do ano selecionado.
 31. [USERELATIONSHIP Orders delivered quantity](Medidas/31%20USERELATIONSHIP%20Orders%20delivered%20quantity.md): Calcula a quantidade de pedidos entregues usando o relacionamento especificado entre as tabelas.
 
-
-
+## Medidas Inteligência Temporal
+1. [Sales](Medidas%20Inteligência%20Temporal/01%20Sales.md): Calcula o total das vendas.
+2. [Sales Last Month](Medidas%20Inteligência%20Temporal/02%20Sales%20Last%20Month.md): Calcula o total de vendas do mês anterior.
+3. [Sales Last Month Delta](Medidas%20Inteligência%20Temporal/03%20Sales%20Last%20Month%20Delta.md): Calcula a diferença entre as vendas do mês atual e as vendas do mês anterior.
+4. [Sales Last Month Delta %](Medidas%20Inteligência%20Temporal/04%20Sales%20Last%20Month%20Delta%20%25.md): Calcula a variação percentual das vendas em relação ao mês anterior.
+5. [Sales Month over Month](Medidas%20Inteligência%20Temporal/05%20Sales%20Month%20over%20Month.md): Calcula o total de vendas do mesmo mês no ano anterior.
+6. [Sales Month over Month Delta](Medidas%20Inteligência%20Temporal/06%20Sales%20Month%20over%20Month%20Delta.md): Calcula a diferença entre as vendas do mês atual e as vendas do mesmo mês no ano anterior.
+7. [Sales Month over Month Delta %](Medidas%20Inteligência%20Temporal/07%20Sales%20Month%20over%20Month%20Delta%20%25.md): Calcula a variação percentual das vendas do mês atual em comparação com o mesmo mês do ano anterior.
+8. [Sales Last Year](Medidas%20Inteligência%20Temporal/08%20Sales%20Last%20Year.md): Calcula o total de vendas do ano anterior.
+9. [Sales Last Year Delta](Medidas%20Inteligência%20Temporal/09%20Sales%20Last%20Year%20Delta.md): Calcula a diferença entre as vendas em relação ao ano anterior.
+10. [Sales Last Year Delta %](Medidas%20Inteligência%20Temporal/10%20Sales%20Last%20Year%20Delta%20%25.md): Calcula a diferença percentual das vendas em relação ao ano anterior.
+11. [Sales Year to Date](Medidas%20Inteligência%20Temporal/11%20Sales%20Year%20to%20Date.md): Calcula as vendas acumuladas no ano até a data atual.
+12. [Sales Year to Date Last Year](Medidas%20Inteligência%20Temporal/12%20Sales%20Year%20to%20Date%20Last%20Year.md): Calcula as vendas acumuladas do ano até a data do ano anterior.
+13. [Sales Year to Date Last Year Delta](Medidas%20Inteligência%20Temporal/13%20Sales%20Year%20to%20Date%20Last%20Year%20Delta.md): Calcula a diferença entre as vendas acumuladas até a data deste ano e as vendas acumuladas até a mesma data no ano passado.
+14. [Sales Year to Date Last Year Delta %](Medidas%20Inteligência%20Temporal/14%20Sales%20Year%20to%20Date%20Last%20Year%20Delta%20%25.md): Calcula a diferença percentual das vendas acumuladas no ano em relação ao ano anterior.
+15. [Sales Month to Date](Medidas%20Inteligência%20Temporal/15%20Sales%20Month%20to%20Date.md): Calcula o total de vendas acumuladas no mês até a data atual.
+16. [Sales Month to Date Last Month](Medidas%20Inteligência%20Temporal/16%20Sales%20Month%20to%20Date%20Last%20Month.md): Calcula o total das vendas acumuladas até a data do mês passado.
 
