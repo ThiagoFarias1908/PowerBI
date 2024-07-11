@@ -1,10 +1,10 @@
-# Medida: Sales Year over Year Delta
+# Medida: Sales Last Year Delta
 
 **Descrição:** Calcula a diferença entre as vendas em relação ao ano anterior.
 
 **Fórmula DAX:**
 ```DAX
-Sales Year over Year Delta = 
+Sales Last Year Delta = 
 VAR DELTA =
 [Sales] - [Sales Year over Year]
 RETURN
