@@ -58,4 +58,6 @@ Repositório para armazenar estudos e projetos em Power BI.
 14. [Sales Year to Date Last Year Delta %](Medidas%20Inteligência%20Temporal/14%20Sales%20Year%20to%20Date%20Last%20Year%20Delta%20%25.md): Calcula a diferença percentual das vendas acumuladas no ano em relação ao ano anterior.
 15. [Sales Month to Date](Medidas%20Inteligência%20Temporal/15%20Sales%20Month%20to%20Date.md): Calcula o total de vendas acumuladas no mês até a data atual.
 16. [Sales Month to Date Last Month](Medidas%20Inteligência%20Temporal/16%20Sales%20Month%20to%20Date%20Last%20Month.md): Calcula o total das vendas acumuladas até a data do mês passado.
+17. [Sales Month to Date Last Month Delta](Medidas%20Inteligência%20Temporal/17%20Sales%20Month%20to%20Date%20Last%20Month%20Delta.md): Calcula a diferença entre as vendas acumuladas até o momento no mês atual e as vendas acumuladas até o mesmo dia no mês anterior.
+18. [Sales Month to Date Last Month Delta %](Medidas%20Inteligência%20Temporal/17%20Sales%20Month%20to%20Date%20Last%20Month%20Delta.md): Calcula a variação percentual das vendas acumuladas até o mês passado em comparação com o mesmo período do mês anterior.
 
