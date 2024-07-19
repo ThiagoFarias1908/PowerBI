@@ -61,3 +61,26 @@ Repositório para armazenar estudos e projetos em Power BI.
 17. [Sales Month to Date Last Month Delta](Medidas%20Inteligência%20Temporal/17%20Sales%20Month%20to%20Date%20Last%20Month%20Delta.md): Calcula a diferença entre as vendas acumuladas até o momento no mês atual e as vendas acumuladas até o mesmo dia no mês anterior.
 18. [Sales Month to Date Last Month Delta %](Medidas%20Inteligência%20Temporal/17%20Sales%20Month%20to%20Date%20Last%20Month%20Delta.md): Calcula a variação percentual das vendas acumuladas até o momento no mês atual em comparação com o mesmo período do mês anterior.
 
+## Medidas Auxiliares
+1. [Actual Year](Medidas%20Auxiliares/01%20Actual%20Year.md): Retorna o ano selecionado.
+2. [Last Year](Medidas%20Auxiliares/02%20Last%20Year.md): Retorna o ano anterior ao selecionado.
+3. [Sales Last Date](Medidas%20Auxiliares/03%20Sales%20Last%20Date.md): Calcula a data da última venda no ano selecionado.
+
+## Medidas Delivery
+1. [Deliveries](Medidas%20Delivery/01%20Deliveries.md): Determina o número de entregas com base na data de entrega.
+2. [Deliveries On Time](Medidas%20Delivery/01%20Deliveries.md): Calcula o número de entregas realizadas dentro do prazo.
+3. [Deliveries Late](Medidas%20Delivery/03%20Deliveries%20Late.md): Calcula o número de entregas atrasadas.
+4. [Deliveries On Time %](Medidas%20Delivery/04%20Deliveries%20On%20Time%20%25.md): Calcula a porcentagem de entregas realizadas dentro do prazo.
+5. [Delivery Lead Time](Medidas%20Delivery/05%20Delivery%20Lead%20Time.md): Calcula o tempo médio de entrega dos pedidos.
+
+## Medidas Análises DAX
+1. [Sales qtde.](Medidas%20Análises%20DAX/01%20Sales%20qtde.md): Conta o número total de vendas realizadas.
+2. [Sales qtde. avg -30](Medidas%20Análises%20DAX/02%20Sales%20qtde.%20avg%20-30.md): Calcula a média da quantidade de vendas nos últimos 30 dias.
+3. [Rank Produto ALL](Medidas%20Análises%20DAX/03%20Rank%20Produto%20ALL.md): Calcula o ranking de vendas dos produtos, considerando todas as categorias.
+4. [Rank Produto ALLSELECTED](Medidas%20Análises%20DAX/04%20Rank%20Produto%20ALLSELECTED.md): Calcula o ranking dos produtos com base no valor total das vendas, respeitando os filtros aplicados ao relatório.
+5. [Pareto com Ranking](Medidas%20Análises%20DAX/05%20Pareto%20com%20Ranking.md): Calcula a porcentagem acumulada das vendas em relação ao total, juntamente com o ranking das vendas.
+6. [Pareto com Ranking de Qtde. de Produtos](Medidas%20Análises%20DAX/06%20Pareto%20com%20Ranking%20de%20Qtde.%20de%20Produtos.md): Calcula o ranking dos produtos com base na quantidade vendida.
+7. [Sales unit.](Medidas%20Análises%20DAX/07%20Sales%20unit.md): Calcula o valor médio de venda por unidade.
+8. [Sales unit. LY](Medidas%20Análises%20DAX/08%20Sales%20unit.%20LY.md): Calcula o valor médio de venda por unidade no mesmo período do ano passado.
+9. [Sales unit. LY Delta](Medidas%20Análises%20DAX/09%20Sales%20unit.%20LY%20Delta.md): Calcula a variação das unidades de vendas em relação ao ano anterior.
+10. [Sales unit. Impact](Medidas%20Análises%20DAX/10%20Sales%20unit.%20Impact.md): Calcula o impacto das vendas por unidade em relação ao total de vendas.
